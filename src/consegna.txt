@@ -1,7 +1,7 @@
 Progetto "Housing"
 
 1 -    Prima versione, primo commit:
-    -     nuovo progetto = nuovo repository
+    -     nuovo progetto = nuovo repository   X
     -     scriviamo la prima versione: classe Room e Main. Una casa è fatta di tre stanze
         calcolo area, calcolo prezzo. (commit 1)
     -    siamo così fieri del nostro programma che lo pubblichiamo per farlo 
